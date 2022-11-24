@@ -10,10 +10,13 @@ We design 3 responsive screens first one is a welcome screen the user opens your
 Technology used:
 
 Flutter
+
 Android Studio
+
 Visual Studio Code
 
 Prerequisite:
 
 dart language for android app development
+
 bios with Virtualisation enabled
